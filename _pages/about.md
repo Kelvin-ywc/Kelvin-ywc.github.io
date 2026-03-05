@@ -29,22 +29,24 @@ I’m a second-year master’s student at Zhejiang University. I have published 
 - *2020.09 - 2024.06*, Undergraduate, Software College, Software Engineering (International (English)), Northeastern University. 
 
 # 🎖 Honors and Awards
+- *2026.2* MSRA Stars of Tomorrow Award.
 - *2025.10* National Scholarship.
 
 # 📝 Publications 
 
-<!-- ## Streaming Video Understanding
+## Streaming Video Understanding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/proact-vl/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/pdf/2504.21423)
+[Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/pdf/2603.03447)
 
 Weicai Yan, Yuhong Dai, Qi Ran, Haodong Li, Wang Lin, Hao Liao, Xing Xie, Tao Jin, Jianxun Lian 
-
+</div>
+</div>
 <!-- [**Project**](https://github.com/Kelvin-ywc/diff-prompt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [**Code**](https://github.com/Kelvin-ywc/diff-prompt). 
 </div>
-</div> --> -->
+</div> -->
 
 
 ## Parameter-Efficient Fine-Tuning
