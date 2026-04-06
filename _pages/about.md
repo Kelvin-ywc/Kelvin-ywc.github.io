@@ -41,8 +41,13 @@ I’m a second-year master’s student at Zhejiang University. I have published 
 [Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/pdf/2603.03447)
 
 Weicai Yan, Yuhong Dai, Qi Ran, Haodong Li, Wang Lin, Hao Liao, Xing Xie, Tao Jin, Jianxun Lian 
+
+- [**Page**](https://proact-vl.github.io/)
+- [**Code**](https://aka.ms/proact-vl)
+
 </div>
 </div>
+
 <!-- [**Project**](https://github.com/Kelvin-ywc/diff-prompt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [**Code**](https://github.com/Kelvin-ywc/diff-prompt). 
 </div>
@@ -50,6 +55,17 @@ Weicai Yan, Yuhong Dai, Qi Ran, Haodong Li, Wang Lin, Hao Liao, Xing Xie, Tao Ji
 
 
 ## Parameter-Efficient Fine-Tuning
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/freqadapter/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Text-Guided Multi-Scale Frequency Representation Adaptation
+
+Weicai Yan, Xinhua Ma, Wang Lin, Tao Jin
+- [**Code**](https://github.com/Kelvin-ywc/FreqAdapter)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/diff-prompt/diff-prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
