@@ -35,7 +35,7 @@ I’m a second-year master’s student at Zhejiang University. I have published 
 # 📝 Publications 
 
 ## Streaming Video Understanding
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/proact-vl/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/proact-vl/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/pdf/2603.03447)
