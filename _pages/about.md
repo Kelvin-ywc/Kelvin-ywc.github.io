@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second-year master’s student at Zhejiang University. I have published several papers as the first author at top AI conferences such as ICLR and ACM MM. My research focuses on Multimodal Large Language Models, especially the applications of Vision-Language Models and effective fine-tuning strategies. Recently, I’ve been particularly interested in streaming video understanding, aiming to enable models to continuously interpret live video streams with strong temporal reasoning and timely responses. My long-term goal is to build a truly user-friendly AI assistant—reliable, practical, and proactive—that can understand visual content, communicate naturally, and help users accomplish real-world tasks with a consistently solid experience.
+I’m a second-year master’s student at Zhejiang University, supervised by [Prof. Tao Jin](https://person.zju.edu.cn/31402183). I have published several papers as the first author at top AI conferences such as ICLR, ICML, ACL and ACM MM. Previously, I was fortunate to intern at the Social Computing Group at Microsoft Research Asia (MSRA), where I worked on streaming video understanding under the mentorship of [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).
+
+My research focuses on Multimodal Large Language Models, especially the applications of Vision-Language Models and effective fine-tuning strategies. Recently, I’ve been particularly interested in streaming video understanding, aiming to enable models to continuously interpret live video streams with strong temporal reasoning and timely responses. My long-term goal is to build a truly user-friendly AI assistant—reliable, practical, and proactive—that can understand visual content, communicate naturally, and help users accomplish real-world tasks with a consistently solid experience.
 
 
 <!-- # 🔥 News
@@ -25,14 +27,15 @@ I’m a second-year master’s student at Zhejiang University. I have published 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*, Software School, Software Engineer, Zhejiang University. 
+- *2024.09 - 2027.06 (now)*, Master Student, Software School, Software Engineer, Zhejiang University. 
 - *2020.09 - 2024.06*, Undergraduate, Software College, Software Engineering (International (English)), Northeastern University. 
+- *2017.09 - 2020.06*, No.3 Middle School of Wuhan.
 
 # 🎖 Honors and Awards
-- *2026.2* MSRA Stars of Tomorrow Award.
+- *2026.02* MSRA Stars of Tomorrow Award.
 - *2025.10* National Scholarship.
 
-# 📝 Publications 
+# 📝 Publications (First Author)
 
 ## Streaming Video Understanding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/proact-vl/framework.png' alt="sym" width="100%"></div></div>
