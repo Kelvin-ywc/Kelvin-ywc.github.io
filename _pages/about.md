@@ -101,8 +101,9 @@ Weicai Yan, Ye Wang, Wang Lin, Zirun Guo, Zhou Zhao, Tao Jin
 
 
 # 💻 Internships
+- *2025.05 - now*, Tencent Hunyuan.
 - *2025.08 - 2026.02*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
 
 <span id="-services"></span>
 # Services
-Reviewer: ACM MM 2025, ICLR 2025, ICLR 2026
+Reviewer: ICLR 2025, ACM MM 2025, ICLR 2026, ACM MM 2026, NeurIPS 2026
