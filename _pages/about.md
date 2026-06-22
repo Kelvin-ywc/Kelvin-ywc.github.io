@@ -29,7 +29,10 @@ My research focuses on Multimodal Large Language Models, especially the applicat
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, Master Student, Software School, Software Engineer, Zhejiang University. 
 - *2020.09 - 2024.06*, Undergraduate, Software College, Software Engineering (International (English)), Northeastern University. 
-- *2017.09 - 2020.06*, No.3 Middle School of Wuhan.
+
+# 💻 Internships
+- *2026.05 - now*, Tencent Project UP, Hunyuan Multimodal Model Department, Shanghai.
+- *2025.08 - 2026.02*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
 
 # 🎖 Honors and Awards
 - *2026.02* MSRA Stars of Tomorrow Award.
@@ -98,11 +101,6 @@ Weicai Yan, Ye Wang, Wang Lin, Zirun Guo, Zhou Zhao, Tao Jin
 </div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-
-# 💻 Internships
-- *2026.05 - now*, Tencent Hunyuan.
-- *2025.08 - 2026.02*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
 
 <span id="-services"></span>
 # Services
