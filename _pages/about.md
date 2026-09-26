@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second-year master’s student at Zhejiang University, supervised by [Prof. Tao Jin](https://person.zju.edu.cn/31402183). I have published several papers as the first author at top AI conferences such as ICLR, ICML, ACL and ACM MM. Previously, I was fortunate to intern at the Social Computing Group at Microsoft Research Asia (MSRA), where I worked on streaming video understanding under the mentorship of [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).
+I’m a second-year master’s student at Zhejiang University, supervised by [Prof. Tao Jin](https://person.zju.edu.cn/31402183), and also collaborate with [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou) closely. I have published several papers as the first author at top AI conferences such as ICLR, ICML, ACL and ACM MM. Previously, I was fortunate to intern at the Social Computing Group at Microsoft Research Asia (MSRA), where I worked on streaming video understanding under the mentorship of [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).
 
 My research focuses on Multimodal Large Language Models, especially the applications of Vision-Language Models and effective fine-tuning strategies. Recently, I’ve been particularly interested in streaming video understanding, aiming to enable models to continuously interpret live video streams with strong temporal reasoning and timely responses. My long-term goal is to build a truly user-friendly AI assistant—reliable, practical, and proactive—that can understand visual content, communicate naturally, and help users accomplish real-world tasks with a consistently solid experience.
 
@@ -105,3 +105,5 @@ Weicai Yan, Ye Wang, Wang Lin, Zirun Guo, Zhou Zhao, Tao Jin
 <span id="-services"></span>
 # Services
 Reviewer: ICLR 2025, ACM MM 2025, ICLR 2026, ACM MM 2026, NeurIPS 2026, ACL ARR 2026, ICLR 2027
+
+
