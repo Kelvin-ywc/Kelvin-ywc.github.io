@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weicai Yan"
-description              : "Vision-Language Models, MLLM, Streaming Video Understanding, Parameter-Efficient Fine-tuning"
+description              : "Omni Post-Training, Streaming Video Understanding (Video Call), Parameter-Efficient Fine-tuning"
 repository               : "Kelvin-ywc/Kelvin-ywc.github.io"
 google_scholar_stats_use_cdn : true
 
