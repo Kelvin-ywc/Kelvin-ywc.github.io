@@ -31,7 +31,8 @@ My research focuses on Multimodal Large Language Models, especially the applicat
 - *2020.09 - 2024.06*, Undergraduate, Software College, Software Engineering (International (English)), Northeastern University. 
 
 # 💻 Internships
-- *2026.05 - now*, Tencent Project UP, Hunyuan Multimodal Model Department, Shanghai.
+<!-- - *2026.05 - now*, Tencent Project UP, Hunyuan Multimodal Model Department, Shanghai. -->
+- *2026.05 - now*, Tencent Project UP, Hunyuan Foundation Model Department, audio group, Shanghai.
 - *2025.08 - 2026.02*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
 
 # 🎖 Honors and Awards
@@ -46,7 +47,7 @@ My research focuses on Multimodal Large Language Models, especially the applicat
 
 [Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/pdf/2603.03447)
 
-Weicai Yan, Yuhong Dai, Qi Ran, Haodong Li, Wang Lin, Hao Liao, Xing Xie, Tao Jin, Jianxun Lian 
+Weicai Yan, Yuhong Dai, Qi Ran, Haodong Li, Wang Lin, Tao Jin, Xing Xie, Hao Liao, Jianxun Lian
 
 - [**Page**](https://proact-vl.github.io/)
 - [**Code**](https://aka.ms/proact-vl)
